@@ -16,15 +16,26 @@ Extract the datasets into a folder called Books.
 The file system should be like below...
 
 kbs-project
+
   _pycache_
+  
   Book
+  
   static
+  
     css
+    
     datatables
+    
     externalCss
+    
     fontawesome-free
+    
   templates
+  
   app.py
+  
   Procfile
+  
   requirements.txt
 
